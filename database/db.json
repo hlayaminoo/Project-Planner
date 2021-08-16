@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Quick Study BaeBae",
+      "detail": "u need to start for study japanese",
+      "complete": true
+    },
+    {
+      "title": "Chan Hui",
+      "detail": "Study Japanese",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "StudyingTmrw",
+      "detail": "Kanji",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
